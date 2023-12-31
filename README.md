@@ -7,6 +7,9 @@ Welcome to Health Hub, your comprehensive platform for health-related informatio
 [Health Hub Project](https://bevel-broad-eater.glitch.me)
 
 Feel free to visit the project repository for more details and to explore the source code.
+
+![Alt Text](https://i.imgur.com/MbilyMW.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
